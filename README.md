@@ -1,5 +1,7 @@
 ## I'm NiaouBreGatoula 🐱
-
+  <div id="header" align="center">
+    <img src="https://i.postimg.cc/nLbC5558/typing-cat.gif" width="200"/>
+  </div>
   <div style="display: flex; align-items: center;">
   <picture>
     <source
