@@ -17,3 +17,9 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiaouBreGatoula&theme=dark&layout=compact&hide_border=true&bg_color=151515&title_color=FFFFFF&text_color=9F9F9F" />
 </div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,bash,html,vim,blender,bootstrap,c,cs,cpp,java,js,jquery,linux,matlab,mint,mysql,sublime,lua,stackoverflow,pug,postman,nginx,nodejs,php,react,regex,tailwind,ts,ubuntu,vite,vscode,wordpress,yarn,cloudflare,css,debian,discordjs,dotnet,eclipse" />
+  </a>
+</p>
