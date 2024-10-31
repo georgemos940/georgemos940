@@ -1,9 +1,14 @@
 ## I'm NiaouBreGatoula 🐱
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=NiaouBreGatoula&style=flat-square&color=brightgreen" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/NiaouBreGatoula?style=flat-square&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/NiaouBreGatoula?style=flat-square&color=yellow" alt="GitHub Stars" />
+<div id="header" align="center">
+    <img src="https://i.postimg.cc/nLbC5558/typing-cat.gif" width="200"/>
+  </div>
+  <div style="display: flex; align-items: center;">
+<div id="about-me" align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=4000&pause=500&color=0CF2B1&center=true&vCenter=true&width=650&lines=Welcome!+I'm+George+Mos.;Software+Engineer+and+Tech+Enthusiast.;Building+Innovative+Solutions.;Driven+by+Curiosity+and+Growth." alt="Typing SVG" />
+  </a>
 </div>
+
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
   <picture>
     <source
