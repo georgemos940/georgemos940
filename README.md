@@ -9,21 +9,25 @@
   </a>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=NiaouBreGatoula&show_icons=true&theme=dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=NiaouBreGatoula&theme=dark&show_icons=true&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=NiaouBreGatoula&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  </picture>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiaouBreGatoula&theme=dark&layout=compact&hide_border=true&bg_color=151515&title_color=FFFFFF&text_color=9F9F9F" alt="Top Languages" />
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <!-- GitHub Stats Card -->
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=NiaouBreGatoula&show_icons=true&theme=dark&hide_border=true&hide=prs,issues,contribs&custom_title=My+GitHub+Stats"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=NiaouBreGatoula&show_icons=true&theme=dark&hide_border=true&hide=prs,issues,contribs&custom_title=My+GitHub+Stats"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=NiaouBreGatoula&show_icons=true&hide_border=true&theme=dark&hide=prs,issues,contribs&custom_title=My+GitHub+Stats" alt="GitHub Stats" style="height: 170px;" />
+    </picture>
+    <!-- Top Languages Card -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiaouBreGatoula&theme=dark&layout=compact&hide_border=true&bg_color=151515&title_color=FFFFFF&text_color=9F9F9F" alt="Top Languages" style="height: 170px;" />
+  </div>
 </div>
+
 
 ## 🌟 Random Skills & Tools I Bring to the Table
 
