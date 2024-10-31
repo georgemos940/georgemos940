@@ -1,9 +1,10 @@
 ## I'm NiaouBreGatoula 🐱
-![](https://komarev.com/ghpvc/?username=NiaouBreGatoula)
-  <div id="header" align="center">
-    <img src="https://i.postimg.cc/nLbC5558/typing-cat.gif" width="200"/>
-  </div>
-  <div style="display: flex; align-items: center;">
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=NiaouBreGatoula&style=flat-square&color=brightgreen" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/NiaouBreGatoula?style=flat-square&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/NiaouBreGatoula?style=flat-square&color=yellow" alt="GitHub Stars" />
+</div>
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=NiaouBreGatoula&show_icons=true&theme=dark&hide_border=true"
@@ -13,10 +14,10 @@
       srcset="https://github-readme-stats.vercel.app/api?username=NiaouBreGatoula&theme=dark&show_icons=true&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=NiaouBreGatoula&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NiaouBreGatoula&show_icons=true&hide_border=true" alt="GitHub Stats" />
   </picture>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiaouBreGatoula&theme=dark&layout=compact&hide_border=true&bg_color=151515&title_color=FFFFFF&text_color=9F9F9F" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiaouBreGatoula&theme=dark&layout=compact&hide_border=true&bg_color=151515&title_color=FFFFFF&text_color=9F9F9F" alt="Top Languages" />
 </div>
 
 ## 🌟 Random Skills & Tools I Bring to the Table
