@@ -1,4 +1,4 @@
-## I'm NiaouBreGatoula 🐱
+## Hey there! 👋 Wishing you a great day!
 <div id="header" align="center">
     <img src="https://i.postimg.cc/nLbC5558/typing-cat.gif" width="200"/>
   </div>
