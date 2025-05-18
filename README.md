@@ -14,17 +14,17 @@
     <!-- GitHub Stats Card -->
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=NiaouBreGatoula&show_icons=true&theme=dark&hide_border=true&hide=prs,issues,contribs&custom_title=My+GitHub+Stats"
+        srcset="https://github-readme-stats.vercel.app/api?username=georgemos940&show_icons=true&theme=dark&hide_border=true&hide=prs,issues,contribs&custom_title=My+GitHub+Stats"
         media="(prefers-color-scheme: dark)"
       />
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=georgemos940&show_icons=true&theme=dark&hide_border=true&hide=prs,issues,contribs&custom_title=My+GitHub+Stats"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=NiaouBreGatoula&show_icons=true&hide_border=true&theme=dark&hide=prs,issues,contribs&custom_title=My+GitHub+Stats" alt="GitHub Stats" style="height: 170px;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=georgemos940&show_icons=true&hide_border=true&theme=dark&hide=prs,issues,contribs&custom_title=My+GitHub+Stats" alt="GitHub Stats" style="height: 170px;" />
     </picture>
     <!-- Top Languages Card -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiaouBreGatoula&theme=dark&layout=compact&hide_border=true&bg_color=151515&title_color=FFFFFF&text_color=9F9F9F" alt="Top Languages" style="height: 170px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgemos940&theme=dark&layout=compact&hide_border=true&bg_color=151515&title_color=FFFFFF&text_color=9F9F9F" alt="Top Languages" style="height: 170px;" />
   </div>
 </div>
 
