@@ -38,5 +38,8 @@ These are some of the tools, languages, and platforms that I’ve picked up alon
     <img src="https://skillicons.dev/icons?i=git,github,bash,html,vim,blender,bootstrap,c,cs,cpp,java,js,jquery,linux,matlab,mint,mysql,sublime,lua,stackoverflow,pug,postman,nginx,nodejs,php,react,regex,tailwind,ts,ubuntu,vite,vscode,wordpress,yarn,cloudflare,css,debian,discordjs,dotnet,eclipse" style="display: flex; justify-content: center; gap: 10px; max-width: 100%; margin: 20px 0;" />
   </a>
 </p>
-
-> 🎯 Always learning, always growing: Whether it's frontend, backend, or tools that streamline workflows, I'm passionate about expanding my skills and exploring new technologies.
+<p align="center">
+  <a href="https://tryhackme.com/p/PhoenixGR">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/PhoenixGR.png" alt="TryHackMe Badge" />
+  </a>
+</p>
