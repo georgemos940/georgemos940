@@ -35,7 +35,7 @@ These are some of the tools, languages, and platforms that I’ve picked up alon
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bash,html,vim,blender,bootstrap,c,cs,cpp,java,js,jquery,linux,matlab,mint,mysql,sublime,lua,stackoverflow,pug,postman,nginx,nodejs,php,react,regex,tailwind,ts,ubuntu,vite,vscode,wordpress,yarn,cloudflare,css,debian,discordjs,dotnet,eclipse" style="display: flex; justify-content: center; gap: 10px; max-width: 100%; margin: 20px 0;" />
+    <img src="https://skillicons.dev/icons?i=git,github,bash,html,vim,blender,postgres,py,aws,docker,kubernetses,npm,emotion,obsidian,latex,bootstrap,c,cs,cpp,java,js,jquery,linux,matlab,mint,mysql,sublime,lua,stackoverflow,pug,postman,nginx,nodejs,php,react,regex,tailwind,ts,ubuntu,vite,vue,webpack,vscode,wordpress,yarn,cloudflare,css,debian,discordjs,bots,discord,dotnet,eclipse" style="display: flex; justify-content: center; gap: 10px; max-width: 100%; margin: 20px 0;" />
   </a>
 </p>
 <p align="center">
