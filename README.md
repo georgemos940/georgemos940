@@ -40,6 +40,6 @@ These are some of the tools, languages, and platforms that I’ve picked up alon
 </p>
 <p align="center">
   <a href="https://tryhackme.com/p/PhoenixGR">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/PhoenixGR.png" alt="TryHackMe Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/georgemos940.png" alt="Your Image Badge" />
   </a>
 </p>
